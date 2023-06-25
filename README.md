@@ -1,6 +1,7 @@
 # Weather-Forecast-Tool
 This project is done for the Microsoft's Fastest Coder Hackathon for the Problem statement Python - Weather Forecast Tool in Command Line
 
+**NOTE** - Enter your API Key of OpenWeather in the Line 7 of weather.py file
 ## >_ INTRODUCTION
 - Displays the weather forecast using Open Weather API
 - Can be used in command line
